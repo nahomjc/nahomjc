@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nahom Tesfaye</h1>  ![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
+<h1 align="center">Hi 👋, I'm Nahom Tesfaye</h1>  
 <h3 align="center">A passionate software developer from Ethiopia</h3>
 
 - 🔭 I’m currently working on [Muyalogy Next js](muyalogy.com)
@@ -14,6 +14,9 @@
 
 
 - ⚡ Fun fact **I like Reading Books and making videos**
+
+
+![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -41,4 +44,11 @@
 
 #
 
+### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25' /> My Github Stats:
+![Apoorv's github stats](https://github-readme-stats.vercel.app/api?username=nahomjc&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=issues&count_private=true&include_all_commits=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nahomjc&layout=compact&text_color=daf7dc&bg_color=151515&hide=css,html,php)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NahomTesfaye&theme=dark)](https://git.io/streak-stats)
 
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
