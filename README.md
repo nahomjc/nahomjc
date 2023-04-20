@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nahom Tesfaye</h1>
+<h1 align="center">Hi 👋, I'm Nahom Tesfaye</h1>  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
 <h3 align="center">A passionate software developer from Ethiopia</h3>
 
 - 🔭 I’m currently working on [Muyalogy Next js](muyalogy.com)
