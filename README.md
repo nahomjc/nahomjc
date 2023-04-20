@@ -18,7 +18,13 @@
 
 - ⚡ Fun fact **I like Reading Books and making videos**
 
+### Demo
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nahomjc&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
+Use [show_owner](#customization) variable to include the repo's owner username
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nahomjca&repo=github-readme-stats&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <h3 align="left">Connect with me:</h3>
