@@ -45,10 +45,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nahomjc&layout=compact&text_color=daf7dc&bg_color=151515&hide=css,html,php)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nahomjce&theme=dark)](https://git.io/streak-stats)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=nahomjc&theme=dark&hide_border=false)<br/>
- ![Harsh GitHub stats](https://github-readme-stats.vercel.app/api?username=nahomjc&count_private=true&title_color=39FF14&show_icons=true&icon_color=ADD8E6&theme=dracula&include_all_commits=true&hide_rank=false&custom_title=@hashfx-Github-stats)
+ 
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nahomjc&theme=react&custom_title=Most-Used-Languages)](https://github.com/hashfx/github-readme-stats) 
 
 <!--START_SECTION:waka-->
 
