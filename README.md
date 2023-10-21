@@ -1,5 +1,15 @@
 
+
 ![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
+
+
+<div align="center">
+  <img height="170px" width="100" src="assets/left.png">
+  <img src="https://github-readme-stats.vercel.app/api?username=AtosDev&theme=discord_old_blurple&show_icons=true&locale=en" alt="AtosDev" height="150px"/>
+  <img height="170px" width="100" src="assets/right.png">
+</div>
+
+
 <h1 align="center">Hi 👋, I'm Nahom Tesfaye</h1>  
 
 <h3 align="center">A passionate software developer from Ethiopia</h3>
@@ -17,16 +27,6 @@
 
 
 - ⚡ Fun fact **I like Reading Books and making videos**
-
-<div align="center">
-  <img height="170px" width="100" src="assets/left.png">
-  <img src="https://github-readme-stats.vercel.app/api?username=AtosDev&theme=discord_old_blurple&show_icons=true&locale=en" alt="AtosDev" height="150px"/>
-  <img height="170px" width="100" src="assets/right.png">
-</div>
-
-
-
-
 <div>
   <img align="left" src="https://visitcount.itsvg.in/api?id=nahomjc&icon=0&color=0" alt="nahomjc" />
   <h2 align="right" style="margin-top: 0px">Dev Nahom</h2>
