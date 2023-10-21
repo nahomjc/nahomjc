@@ -28,7 +28,7 @@
 
 <div>
   <img align="left" src="https://visitcount.itsvg.in/api?id=nahomjc&icon=0&color=0" alt="nahomjc" />
-  <h2 align="right" style="margin-top: 0px">Toba Senju</h2>
+  <h2 align="right" style="margin-top: 0px">Dev Nahom</h2>
 </div>
 
 <p align="center">
