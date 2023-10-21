@@ -20,9 +20,10 @@
 
 <div align="center">
   <img height="170px" width="100" src="assets/left.png">
-  <img src="https://github-readme-stats.vercel.app/api?username=nahomjc&theme=discord_old_blurple&show_icons=true&locale=en" alt="nahomjc" height="150px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AtosDev&theme=discord_old_blurple&show_icons=true&locale=en" alt="AtosDev" height="150px"/>
   <img height="170px" width="100" src="assets/right.png">
 </div>
+
 
 
 
