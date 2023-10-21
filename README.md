@@ -24,26 +24,22 @@
   <img height="170px" width="100" src="assets/right.png">
 </div>
 
-<div align="center">
-  <img height="170px" width="100" src="assets/left.png">
-  <img src="https://github-readme-stats.vercel.app/api?username=AtosDev&theme=discord_old_blurple&show_icons=true&locale=en" alt="AtosDev" height="150px"/>
-  <img height="170px" width="100" src="assets/right.png">
-</div>
+
 
 <div>
-  <img align="left" src="https://visitcount.itsvg.in/api?id=atosdev&icon=0&color=0" alt="AtosDev" />
+  <img align="left" src="https://visitcount.itsvg.in/api?id=nahomjc&icon=0&color=0" alt="nahomjc" />
   <h2 align="right" style="margin-top: 0px">Toba Senju</h2>
 </div>
 
 <p align="center">
    <a href="https://github.com/AtosDev">
-      <img src="https://github-profile-trophy.vercel.app/?username=AtosDev&margin-w=15&margin-h=15&theme=gitdimmed" alt="AtosDev" />
+      <img src="https://github-profile-trophy.vercel.app/?username=nahomjc&margin-w=15&margin-h=15&theme=gitdimmed" alt="nahomjc" />
    </a>
 </p>
 
 <p align='center' style="display: flex; justify-content: center; grid-gap: 30px">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AtosDev&theme=discord_old_blurple" alt="AtosDev" height="150px" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtosDev&theme=discord_old_blurple&layout=compact&langs_count=8" alt="AtosDev" height="150px"/>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nahomjc&theme=discord_old_blurple" alt="nahomjc" height="150px" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nahomjc&theme=discord_old_blurple&layout=compact&langs_count=8" alt="nahomjc" height="150px"/>
 </p>
 
 <h3 align="left">Connect with me:</h3>
