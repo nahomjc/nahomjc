@@ -38,10 +38,6 @@
    </a>
 </p>
 
-<p align='center' style="display: flex; justify-content: center; grid-gap: 30px">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nahomjc&theme=discord_old_blurple" alt="nahomjc" height="150px" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nahomjc&theme=discord_old_blurple&layout=compact&langs_count=8" alt="nahomjc" height="150px"/>
-</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
