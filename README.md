@@ -63,7 +63,7 @@
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nahomjc&theme=dark)](https://git.io/streak-stats)
-
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=nahomjc&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nahomjc&layout=compact&text_color=daf7dc&bg_color=151515&hide=css,html,php)](https://github.com/anuraghazra/github-readme-stats)
 ****
