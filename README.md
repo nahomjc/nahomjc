@@ -5,7 +5,7 @@
 
 <div align="center">
   <img height="170px" width="100" src="assets/left.png">
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nahomjc&layout=compact&text_color=daf7dc&bg_color=151515&hide=css,html,php)](https://github.com/anuraghazra/github-readme-stats)
+  <img src="https://github-readme-stats.vercel.app/api?username=nahomjc&theme=discord_old_blurple&show_icons=true&locale=en" alt="nahomjc" height="150px"/>
   <img height="170px" width="100" src="assets/right.png">
 </div>
 
