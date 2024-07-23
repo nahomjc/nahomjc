@@ -14,7 +14,7 @@
 
 <h3 align="center">A passionate software developer from Ethiopia</h3>
 
-- 🔭 I’m currently working on [Muyalogy a Next.js project ]
+- 🔭 I’m currently working on [LMS a Next.js project ]
 
 - 🌱 I’m currently learning **React JS**
 
