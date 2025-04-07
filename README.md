@@ -14,19 +14,18 @@
 
 <h3 align="center">A passionate software developer from Ethiopia</h3>
 
-- 🔭 I’m currently working on [LMS a Next.js project ]
+I'm currently working on Sourcepin- A tendering and bidding platform for Ethiopia, Mali, Sierra Leone, and Malawi
 
-- 🌱 I’m currently learning **React JS**
+- 🌱 I'm currently learning **Next.js, AI Interactions, and Advanced React Patterns**
 
-- 👯 I’m looking to collaborate on **a react project**
+- 👯 I'm looking to collaborate on **Next.js and AI-powered projects**
 
-- 💬 Ask me about **Front end development and slc**
+- 💬 Ask me about **Fullstack MERN Development, Next.js, AI Integration, Front end development and SLC**
 
 - 📫 How to reach me **aslandjc7@gmail.com**
 
-
-
 - ⚡ Fun fact **I like Reading Books and making videos**
+
 <div>
   <img align="left" src="https://visitcount.itsvg.in/api?id=nahomjc&icon=0&color=0" alt="nahomjc" />
   <h2 align="right" style="margin-top: 0px">Dev Nahom</h2>
