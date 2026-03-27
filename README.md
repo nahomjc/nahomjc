@@ -10,26 +10,60 @@
 </div>
 
 
-<h1 align="center">Hi 👋, I'm Nahom Tesfaye</h1>  
+<h1 align="center">Hey 👋, I'm Nahom Tesfaye</h1>
 
-<h3 align="center">A passionate software developer from Ethiopia</h3>
+<h3 align="center">🚀 Fullstack Developer | Next.js & AI Enthusiast | Based in Ethiopia</h3>
 
-I'm currently working on Sourcepin- A tendering and bidding platform for Ethiopia, Mali, Sierra Leone, and Malawi
+---
 
-- 🌱 I'm currently learning **Next.js, AI Interactions, and Advanced React Patterns**
+### 👨‍💻 About Me
 
-- 👯 I'm looking to collaborate on **Next.js and AI-powered projects**
+I'm a passionate software developer focused on building scalable and impactful digital products.
+Currently working on **Sourcepin** — a tendering and bidding platform serving Ethiopia, Mali, Sierra Leone, and Malawi.
 
-- 💬 Ask me about **Fullstack MERN Development, Next.js, AI Integration, Front end development and SLC**
+---
 
-- 📫 How to reach me: [My Portfolio](https://build-with-nahom.com/)
+### 🌱 Currently Exploring
 
-- ⚡ Fun fact **I like Reading Books and making videos**
+* ⚡ Next.js & Advanced React Patterns
+* 🤖 AI Integrations & Intelligent Systems
+* 🧠 Building real-world, production-ready platforms
 
-<div>
-  <img align="left" src="https://visitcount.itsvg.in/api?id=nahomjc&icon=0&color=0" alt="nahomjc" />
-  <h2 align="right" style="margin-top: 0px">Dev Nahom</h2>
+---
+
+### 🤝 Open to Collaborate On
+
+* Next.js applications
+* AI-powered tools & platforms
+* Fullstack SaaS projects
+
+---
+
+### 💬 Ask Me About
+
+* MERN Stack Development
+* Next.js & Frontend Architecture
+* AI Integration in Web Apps
+* Clean UI/UX with Tailwind CSS
+
+---
+
+### 📫 Connect With Me
+
+* 🌐 Portfolio: https://build-with-nahom.com/
+
+---
+
+### ⚡ Fun Fact
+
+I enjoy reading books 📚 and creating videos 🎥 — always learning, always building.
+
+---
+
+<div align="center">
+  <img src="https://visitcount.itsvg.in/api?id=nahomjc&icon=0&color=0" alt="visitor count" />
 </div>
+
 
 <p align="center">
    <a href="https://github.com/nahomjc">
