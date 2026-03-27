@@ -22,7 +22,7 @@ I'm currently working on Sourcepin- A tendering and bidding platform for Ethiopi
 
 - 💬 Ask me about **Fullstack MERN Development, Next.js, AI Integration, Front end development and SLC**
 
-- 📫 How to reach me: [My Portfolio](https://next-js-portfolio-t8hp.vercel.app/)
+- 📫 How to reach me: [My Portfolio](https://build-with-nahom.com/)
 
 - ⚡ Fun fact **I like Reading Books and making videos**
 
